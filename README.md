@@ -222,10 +222,11 @@ GCN embeddings produced **more semantically coherent clusters**.
 ---
 
 ## 👨‍💻 Authors
-
-Govardhan Reddy Narala  
 University of Houston–Clear Lake  
-
+Govardhan Reddy Narala  
+Praneetha Bhattu
+Sai Nithil Gopu
+Niharika Pavuluri
 ---
 
 
