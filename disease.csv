@@ -1,0 +1,395 @@
+Disease name,unknown column,DOID 
+depressive disorder,0,DOID:1469
+neoplasms,4,DOID:3200
+autistic disorder,7,DOID:12849
+lung injury,15,DOID:3240
+pneumonia,17,DOID:3240
+anxiety disorders,18,DOID:4964
+autoimmune diseases,20,DOID:5213
+brain diseases,21,DOID:525
+cardiomyopathies,24,DOID:0050700
+epilepsy,29,DOID:0050701
+kidney diseases,34,DOID:0050713
+seizures,42,DOID:0050732
+status epilepticus,44,DOID:11350
+melanoma,48,DOID:13160
+prostatic neoplasms,49,DOID:10283
+"respiratory distress syndrome, adult",50,DOID:11394
+acute kidney injury,56, DOID:2973
+alopecia,63,DOID:4336
+anemia,66,DOID:4775
+asthenozoospermia,76,DOID:0070168
+atherosclerosis,77,DOID:0080958
+bone diseases,85,DOID:0081122
+brain ischemia,89,DOID:224
+"carcinoma, endometrioid",96,DOID:2334
+cardiomegaly,99,DOID:0060569
+cardiovascular diseases,102, DOID:0060570
+cerebral hemorrhage,106,DOID:0070027
+cerebral infarction,107,DOID:3525
+cholangiocarcinoma,110, DOID:4682
+cholestasis,112,DOID:6691
+cocaine-related disorders,118,DOID:809
+colitis,119,DOID:8577
+coronary artery disease,122,DOID:8805
+diarrhea,130, DOID:882
+dyspepsia,138, DOID:0050223
+endometrial neoplasms,148,DOID:1380
+endometriosis,149,DOID:288
+epstein-barr virus infections,150,DOID:2938
+fatty liver,154,DOID:8456
+growth disorders,169,DOID:0050436
+heart diseases,176,DOID:0050700
+heart failure,177,DOID:0051054
+hyperglycemia,187,DOID:0060334
+hypertrophy,195,DOID:0061102
+immune system diseases,200,DOID:0081267
+immunologic deficiency syndromes,201,DOID:0060874
+infertility,203,DOID:0061177
+inflammation,206,DOID:0061185
+intestinal diseases,208, DOID:0080072
+liver diseases,220, DOID:0080208
+liver neoplasms,221,DOID:920
+lung diseases,222, DOID:0050153
+lung neoplasms,223,DOID:5767
+"lupus erythematosus, systemic",224,DOID:9074
+lymphoma,226,DOID:5815
+medulloblastoma,231,DOID:6458
+melanosis,232,DOID:0111373
+myocardial infarction,239,DOID:10266
+myocardial ischemia,240,
+myocardial reperfusion injury,241,DOID:0070306
+myocarditis,242,DOID:0080767
+neurotoxicity syndromes,253,DOID:3602
+"osteoporosis, postmenopausal",256,DOID:5688
+ovarian diseases,258, DOID:7347
+pain,260,DOID:848
+panic disorder,262,DOID:594
+parkinson disease,264,DOID:0060367
+pituitary neoplasms,270,DOID:1785
+polycystic ovary syndrome,274,DOID:11612
+pre-eclampsia,279,DOID:13129
+prolactinoma,282, DOID:5394
+psychotic disorders,289,DOID:5418
+pulmonary embolism,292,DOID:8512
+sarcoma,296,DOID:8632
+skin neoplasms,301,DOID:173
+thrombosis,319,DOID:2224
+uterine neoplasms,333,
+bone neoplasms,349,DOID:6579
+"fibromatosis, aggressive",355,DOID:7327
+gastrointestinal neoplasms,356,
+gastrointestinal stromal tumors,357,DOID:4148
+glioma,358,DOID:7497
+glomerulonephritis,359,DOID:0040094
+liver cirrhosis,368,DOID:12236
+"liver failure, acute",369,DOID:0051048
+peripheral nervous system diseases,376,DOID:11465
+stomach neoplasms,381,DOID:122
+"thrombocythemia, essential",382,DOID:2224
+vasculitis,384,DOID:2508
+aortic aneurysm,389,DOID:3627
+"child development disorders, pervasive",392,DOID:0060040
+colonic neoplasms,393,
+diabetic angiopathies,398,DOID:11713
+diabetic neuropathies,399,DOID:9743
+glioblastoma,407,DOID:3068
+hypercholesterolemia,411,DOID:0090105
+"lymphoma, non-hodgkin",422,DOID:0111147
+mental disorders,425,DOID:1047
+muscular atrophy,427, DOID:12376
+non-alcoholic fatty liver disease,429,DOID:0080208
+obesity,430,DOID:0080818
+reperfusion injury,433,
+salivary gland neoplasms,434,
+"shock, hemorrhagic",438,DOID:10773
+"sleep apnea, obstructive",440,DOID:4952
+varicocele,443,DOID:12337
+acute coronary syndrome,453,DOID:3362
+aneurysm,460,DOID:3362
+"angina, unstable",463,DOID:4558
+arthritis,474, DOID:6196
+asthma,475,DOID:9360
+atrial fibrillation,478,DOID:0050650
+bipolar disorder,486,DOID:0060166
+bronchiolitis obliterans,495,DOID:2799
+"cardiomyopathy, dilated",499,DOID:0060036
+demyelinating diseases,529, DOID:3212
+fever,553,DOID:11100
+hearing loss,567,DOID:12113
+hiv infections,584,DOID:526
+"hypoxia-ischemia, brain",598,DOID:4369
+infection,603,
+ischemia,609,DOID:326 
+keratitis,612,DOID:4677 
+"kidney failure, chronic",613,DOID:9808
+liver failure,628,DOID:0051048
+long qt syndrome,629,DOID:0060173
+"lung diseases, interstitial",631,DOID:0060941
+meningitis,635,DOID:10310
+moyamoya disease,646,DOID:13099
+myasthenia gravis,653,DOID:14043
+neutropenia,662,DOID:1227 
+periodontal diseases,684,DOID:1483
+peripheral vascular diseases,685,DOID:9286
+peritonitis,686,DOID:9801
+pregnancy complications,694,DOID:14072
+schizophrenia,725,DOID:5419
+subarachnoid hemorrhage,748,DOID:0060228
+thrombocytopenia,759,DOID:1588
+thrombocytosis,760,DOID:2228
+vascular diseases,771,DOID:178
+dementia,779,DOID:1307
+"anemia, sickle cell",796,DOID:13636
+anus neoplasms,799,DOID:14110
+"aortic aneurysm, abdominal",800,DOID:3627
+"arthritis, psoriatic",801,DOID:848
+astrocytoma,802,DOID:3069
+brain neoplasms,803,DOID:1319
+cataract,806,DOID:83
+colorectal neoplasms,810,DOID:3883
+coronary restenosis,812,DOID:4247
+diabetes mellitus,813,DOID:9351
+esophageal neoplasms,817,DOID:1103
+"fatty liver, alcoholic",819,DOID:9452
+fibrosarcoma,820,DOID:3355
+glaucoma,826,DOID:1686
+hemangioma,828,DOID:255
+hepatoblastoma,830,DOID:687
+hyperhomocysteinemia,834,DOID:9279
+leukemia,836,DOID:9119
+lymphoproliferative disorders,843, DOID:3838
+meningioma,846,DOID:3565
+mouth neoplasms,848,DOID:403
+nasopharyngeal neoplasms,852,DOID:5660
+neurilemmoma,853,DOID:6175
+oligodendroglioma,856,DOID:3181
+osteoporosis,858,DOID:11476
+psoriasis,862, DOID:8893
+retinal degeneration,864,DOID:0050572
+retinoblastoma,865,DOID:768
+tongue neoplasms,871,
+toxoplasmosis,872,DOID:9965
+acute lung injury,880,DOID:3240
+"carcinoma, pancreatic ductal",901, DOID:3498
+"carcinoma, transitional cell",902,DOID:4005
+cartilage diseases,904, DOID:1222
+cystic fibrosis,913,DOID:1485
+"dermatitis, allergic contact",916, DOID:2723
+"dermatitis, atopic",917,DOID:3310
+dermatomyositis,920,DOID:10223
+diabetic cardiomyopathies,922,DOID:12928
+diabetic retinopathy,924,DOID:13207
+endocardial cushion defects,934,DOID:0050651
+"epilepsy, temporal lobe",943,DOID:0050651
+gout,955,DOID:13189
+"hepatitis, chronic",959, DOID:2237
+hypersensitivity,968,DOID:2916
+keloid,979,
+"lymphoma, t-cell, cutaneous",987,DOID:0111936
+mitochondrial diseases,998,DOID:0080013
+multiple myeloma,1001,DOID:9514
+nephrotic syndrome,1010,DOID:0070357
+"niemann-pick disease, type c",1015,DOID:14504
+pheochromocytoma,1028,DOID:0050771
+retinitis pigmentosa,1040,DOID:0061103
+rhabdomyosarcoma,1042,DOID:0080900
+schistosomiasis japonica,1043,DOID:0050597
+behcet syndrome,1077,DOID:13241
+"cardiomyopathy, alcoholic",1079,
+fibromyalgia,1087,DOID:631
+guillain-barre syndrome,1093,DOID:12842
+"hepatitis b, chronic",1097,DOID:2043
+hepatitis c,1098,DOID:7324
+metabolic diseases,1107,DOID:9969
+neuralgia,1115,DOID:10383
+osteosarcoma,1118,DOID:2732
+"pancreatitis, chronic",1120,
+pemphigus,1121,DOID:11656
+precursor t-cell lymphoblastic leukemia-lymphoma,1124, DOID:5603
+uveitis,1140,DOID:9375
+crohn disease,1152,DOID:0061059
+adrenocortical carcinoma,1187,DOID:3948
+amyotrophic lateral sclerosis,1195,DOID:0050752
+aortic valve stenosis,1202, DOID:1712
+azoospermia,1210, DOID:0061177
+bronchopulmonary dysplasia,1228,DOID:11650
+burkitt lymphoma,1229,DOID:8584
+"carcinoma, ehrlich tumor",1237, DOID:8634
+celiac disease,1250,DOID:10608
+chorioamnionitis,1255,DOID:11573
+diabetic foot,1279,
+encephalitis,1289,DOID:13664
+endomyocardial fibrosis,1293,DOID:12932
+endotoxemia,1294,
+esophagitis,1304,DOID:13146
+gliosis,1320,DOID:0111830
+granulosa cell tumor,1330,DOID:2999
+graves disease,1331,DOID:0060005
+head and neck neoplasms,1334,DOID:11934
+hepatitis b,1348, DOID:2043
+hodgkin disease,1360, DOID:8567
+huntington disease,1361,DOID:0090103
+hyperaldosteronism,1362,DOID:0111622
+ileus,1378,DOID:13687
+inflammatory bowel diseases,1380,DOID:0050132
+intervertebral disc degeneration,1381,DOID:90
+intracranial aneurysm,1383, DOID:0060228
+leiomyosarcoma,1395,DOID:175
+leishmaniasis,1396,DOID:8252
+"leprosy, lepromatous",1400, DOID:8252
+lichen planus,1407,DOID:9201
+lupus nephritis,1414,DOID:0080162
+lymphedema,1416,DOID:0111360
+mastitis,1423,DOID:10690
+"meningitis, pneumococcal",1432,DOID:11572
+multiple sclerosis,1445,DOID:2376
+myopia,1452,DOID:11830
+narcolepsy,1455,DOID:8986
+"neoplasms, germ cell and embryonal",1457,DOID:3095
+nephrolithiasis,1460,DOID:580
+neuroblastoma,1463,DOID:769
+pancreatic diseases,1479,DOID:0050130
+periodontitis,1489,DOID:824
+polycystic kidney diseases,1503,DOID:898
+polycythemia vera,1504, DOID:8997
+precursor b-cell lymphoblastic leukemia-lymphoma,1508,
+primary myelofibrosis,1511,DOID:4971
+prion diseases,1512,DOID:5434
+pulmonary fibrosis,1518,DOID:5641
+rectal neoplasms,1521,
+sepsis,1543,
+testicular neoplasms,1566,DOID:2998
+tuberculosis,1577,DOID:399
+"tuberculosis, pulmonary",1584,DOID:587
+uveomeningoencephalitic syndrome,1592,DOID:12297
+vitiligo,1602,DOID:12306
+waldenstrom macroglobulinemia,1605,DOID:0060901
+chlamydia infections,1612,DOID:0040083
+hemangiosarcoma,1616,DOID:0001816
+liposarcoma,1620,DOID:3382
+peritoneal fibrosis,1622,DOID:0081026
+corneal neovascularization,1627,DOID:11382
+amyloidosis,1635,DOID:9120
+down syndrome,1646,DOID:0060888
+eclampsia,1647,DOID:13593
+endocrine gland neoplasms,1648,DOID:1540
+mucocutaneous lymph node syndrome,1670,DOID:13378
+myotonic dystrophy,1672,DOID:11722
+cryptosporidiosis,1690,DOID:1733
+acquired immunodeficiency syndrome,1692,DOID:4775
+brucellosis,1695,DOID:11076
+carotid artery diseases,1696,DOID:3407
+leprosy,1700,DOID:1024
+mycobacterium avium-intracellulare infection,1707,DOID:2755
+"carcinoma, basal cell",1732,
+hematologic neoplasms,1759,DOID:3234
+"hepatitis, alcoholic",1761,
+"hepatitis c, chronic",1762,DOID:7324
+irritable bowel syndrome,1766, DOID:9778
+nephrosclerosis,1775,DOID:11664
+"pancreatitis, acute necrotizing",1781,DOID:13315
+phyllodes tumor,1790, DOID:1631
+tetralogy of fallot,1820,DOID:6419
+fragile x syndrome,1838,DOID:14261
+"myasthenic syndromes, congenital",1841,DOID:3635
+"carcinoma, signet ring cell",1849, DOID:4304
+aortic valve insufficiency,1857,DOID:57
+parathyroid neoplasms,1871,DOID:11006
+barrett esophagus,1895, DOID:9206
+choriocarcinoma,1900, DOID:5547
+"lichen planus, oral",1907,DOID:9201
+pterygium,1911,DOID:0002116
+charcot-marie-tooth disease,1930,DOID:0050538
+complex regional pain syndromes,1933, DOID:3223
+haemophilus infections,1940,DOID:10529
+"leukemia, t-cell",1947,DOID:10529
+mycosis fungoides,1949,DOID:8690
+otitis media,1954,DOID:8812
+salmonella infections,1967,DOID:0050338
+myxoma,1987,DOID:0111765
+vulvar neoplasms,1994,DOID:1245
+antiphospholipid syndrome,2015,DOID:2988
+chordoma,2028,DOID:3302
+ependymoma,2042,DOID:4843
+fanconi anemia,2049,DOID:0060978
+gaucher disease,2057,DOID:0110957
+hiv-associated lipodystrophy syndrome,2071,DOID:810
+hyperlipoproteinemia type iii,2074,DOID:3145
+"lymphoma, follicular",2096,DOID:3234
+"mastocytosis, systemic",2098,DOID:349
+"neoplasms, neuroepithelial",2107,DOID:3621
+"osteoarthritis, knee",2111,DOID:8398
+respiratory syncytial virus infections,2124,DOID:10007
+"rhinitis, allergic, perennial",2126,DOID:10459
+sezary syndrome,2128,DOID:8541
+silicosis,2129,DOID:10324
+coronavirus infections,2178,DOID:14476
+giant cell tumor of bone,2200,DOID:4305
+macular degeneration,2201, DOID:4448
+neuroendocrine tumors,2208,DOID:0081245
+pelvic inflammatory disease,2234,DOID:1003
+"aortic aneurysm, thoracic",2256, DOID:11733
+bile duct neoplasms,2263,DOID:270
+cerebellar neoplasms,2273,DOID:5056
+chondrosarcoma,2283,DOID:5857
+chronic pain,2288,DOID:0060164
+cytomegalovirus infections,2300, DOID:0050186
+encephalomyelitis,2318,DOID:0080995
+familial mediterranean fever,2330,DOID:2987
+growth hormone-secreting pituitary adenoma,2343,DOID:5716
+hemophilia a,2351, DOID:0111823
+intermittent claudication,2366,DOID:3669
+"leukemia, b-cell",2379,DOID:0081041
+"leukoplakia, oral",2384,DOID:2729
+lyme disease,2390,DOID:4109
+"lymphohistiocytosis, hemophagocytic",2391,DOID:0050120
+"malaria, cerebral",2397,DOID:12365
+multiple system atrophy,2412,DOID:4752
+"muscular dystrophy, duchenne",2413,DOID:9884
+oral submucous fibrosis,2429,DOID:5773
+rheumatic heart disease,2472,DOID:0050827
+seminoma,2482,DOID:3306
+severe acute respiratory syndrome,2483,DOID:0080600
+spinal stenosis,2498,DOID:6725
+uterine cervicitis,2531,
+friedreich ataxia,2592, DOID:12705
+listeriosis,2621,DOID:0050065
+balkan nephropathy,2631,DOID:3052
+enterovirus infections,2669,DOID:4807
+"lipid metabolism, inborn errors",2680,DOID:0060235
+"muscular dystrophy, facioscapulohumeral",2705,DOID:0060253
+"abortion, habitual",2778,DOID:11573
+idiopathic pulmonary fibrosis,2781, DOID:2797
+thymoma,2787,DOID:3275
+myositis ossificans,2802,DOID:668
+autoimmune lymphoproliferative syndrome,2863,DOID:6688
+"sarcoidosis, pulmonary",2885,DOID:11335
+dental enamel hypoplasia,3019,DOID:2187
+machado-joseph disease,3131,DOID:1440
+retinal neovascularization,3146,
+"rhinitis, vasomotor",3147,DOID:8252
+"hamartoma syndrome, multiple",3203,DOID:6457
+eosinophilic esophagitis,3304,DOID:13922
+peritoneal neoplasms,3307, DOID:1725
+chagas disease,3309,DOID:12140
+li-fraumeni syndrome,3349,DOID:0111503
+"lymphoma, extranodal nk-t-cell",3375, DOID:0060705
+frontotemporal lobar degeneration,3389, DOID:0060672
+osteogenesis imperfecta,3463,DOID:0060438
+legg-calve-perthes disease,3472,DOID:14415
+digeorge syndrome,3516,DOID:11198
+"liposarcoma, myxoid",3637,DOID:0080531
+hirschsprung disease,3726,DOID:0060485
+digestive system neoplasms,4032,
+biliary atresia,4141,DOID:13608
+hemoglobinopathies,4150,DOID:2860
+lesch-nyhan syndrome,4203,DOID:1919
+"gastritis, atrophic",4273,DOID:2327
+pelvic organ prolapse,4412,
+multiple endocrine neoplasia type 1,4526,DOID:10017
+nevus,4593,DOID:4700
+gestational trophoblastic disease,4923,DOID:3589
+gerstmann-straussler-scheinker disease,4941,DOID:4249
+cleidocranial dysplasia,5097,DOID:0060589
+multiple sulfatase deficiency disease,5323,DOID:0050441
